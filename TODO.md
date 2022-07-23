@@ -1,8 +1,10 @@
 
 # TODO
 - Power pack
-    - Battery requirements
-    - Connect battery to other components
-- Pick airhorn
-- Pick speakers
-- Pick light show
+    - Figure out battery requirements
+- Connect power pack to other components
+- Fun components 
+    - Pick airhorn
+    - Pick speakers
+    - Pick light show
+- Backpack
